@@ -5,6 +5,7 @@
 # this project is build using Python, Django framework and sqllite database. 
 # Future plan is to move it MySql or PostgressDB and build using a Docker countainer.
 # To run this project follow below set.
-# 1. Install python and pip
-# 2. Run this in cmd : pip install -r requirement.txt
-# 3. Run : python manage.py runserver
+## 1. Install python and pip
+## 2. Run this in cmd : pip install -r requirement.txt
+## 3. Run : python manage.py runserver
+## Now you can access the URL in web browser and create a login and register new user.
